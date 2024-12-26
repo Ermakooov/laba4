@@ -1,0 +1,33 @@
+\begin{theindex}
+
+  \item {cipher\_error}, \hyperpage{7}
+    \subitem {cipher\_error}, \hyperpage{8}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {TableCipher}, \hyperpage{10}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {TableCipher}, \hyperpage{10}
+
+  \indexspace
+
+  \item {getValidKey}
+    \subitem {TableCipher}, \hyperpage{11}
+  \item {getValidText}
+    \subitem {TableCipher}, \hyperpage{11}
+
+  \indexspace
+
+  \item {TableCipher}, \hyperpage{9}
+    \subitem {decrypt}, \hyperpage{10}
+    \subitem {encrypt}, \hyperpage{10}
+    \subitem {getValidKey}, \hyperpage{11}
+    \subitem {getValidText}, \hyperpage{11}
+    \subitem {TableCipher}, \hyperpage{9}
+  \item {tableCipher.h}, \hyperpage{13}
+
+\end{theindex}
